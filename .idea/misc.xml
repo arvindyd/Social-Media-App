@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/btn_follow.xml" value="0.1295" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/com_un_back.xml" value="0.1295" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/demo_circle.xml" value="0.1295" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/etback.xml" value="0.2425" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/etbackg.xml" value="0.1795" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/followign_btn.xml" value="0.1295" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/ic_bookmark.xml" value="0.1795" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/ic_like_red.xml" value="0.1295" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/ic_share.xml" value="0.1795" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/ic_user.xml" value="0.1795" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/drawable/send_ic.xml" value="0.1295" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/activity_comment.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/activity_login.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/activity_sign_up.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/comment_samole.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/demo_post.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/follower_sample.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/fragment_home_fragments.xml" value="0.6" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/fragment_notification2_.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/fragment_notification_.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/fragment_post.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/post_sample.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/search_sample.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/layout/story_sample.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/FacebookClone/app/src/main/res/xml/tabs.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Dell/facebookclone/app/src/main/res/layout/fragment_post.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

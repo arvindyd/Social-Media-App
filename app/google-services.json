@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413514410821",
+    "project_id": "social-media-c1980",
+    "storage_bucket": "social-media-c1980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413514410821:android:55bbb66639fff4dfe8ec2c",
+        "android_client_info": {
+          "package_name": "com.radhe.facebookclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413514410821-qd8tpdshqr2qrvuaert9ugng07ikge5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8E1ZbDbhFZS4-BlV6kgS84JkIbmf-Ff4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413514410821-qd8tpdshqr2qrvuaert9ugng07ikge5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
