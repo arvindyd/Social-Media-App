@@ -1,5 +1,5 @@
 This is an Open Sourced Social Media Android App. I started this Project absoulutely no vision 
-but now it have evolve to customized Social Media App. This repository holds basic Social Media App POC which I had created 2 months back. 
+but now it have evolve to customized Social Media App. This repository holds basic Social Media App POC which I had created 6 months back. 
 You can download Demo App to see what it looks like now.
 
 
